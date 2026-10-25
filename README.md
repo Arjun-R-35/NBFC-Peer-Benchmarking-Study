@@ -34,15 +34,16 @@ Metric definitions and reporting periods may differ across companies. Some metri
 
 ## Source Documents
 The analysis uses Q1 FY27 investor presentations from:
--Bajaj Finance
 
--Cholamandalam Investment and Finance
+- Bajaj Finance
 
--Shriram Finance
+- Cholamandalam Investment and Finance
 
--Muthoot Finance
+- Shriram Finance
 
--Five-Star Business Finance
+- Muthoot Finance
+
+- Five-Star Business Finance
 
 Source page references are recorded in the Raw_Data worksheet. Figures were transcribed for educational analysis; metric definitions and reporting periods may differ between companies.
 
