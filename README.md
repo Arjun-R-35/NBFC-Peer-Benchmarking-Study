@@ -32,7 +32,7 @@ Metric definitions and reporting periods may differ across companies. Some metri
 - `NBFC_Benchmarking.xlsx` — benchmarking workbook
 - Investor presentation PDFs — source documents used for data collection
 
-##Source Documents
+## Source Documents
 The analysis uses Q1 FY27 investor presentations from:
 -Bajaj Finance
 -Cholamandalam Investment and Finance
