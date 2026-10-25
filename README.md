@@ -32,5 +32,17 @@ Metric definitions and reporting periods may differ across companies. Some metri
 - `NBFC_Benchmarking.xlsx` — benchmarking workbook
 - Investor presentation PDFs — source documents used for data collection
 
+##Source Documents
+The analysis uses Q1 FY27 investor presentations from:
+-Bajaj Finance
+-Cholamandalam Investment and Finance
+-Shriram Finance
+-Muthoot Finance
+-Five-Star Business Finance
+
+Source page references are recorded in the Raw_Data worksheet. Figures were transcribed for educational analysis; metric definitions and reporting periods may differ between companies.
+
+The original presentations are retained locally and are not included in this repository.
+
 ## Disclaimer
 This project is for educational and portfolio demonstration purposes only. It is not investment advice or a formal credit rating.
